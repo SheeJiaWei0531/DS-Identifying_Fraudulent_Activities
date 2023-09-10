@@ -1,4 +1,4 @@
-# Identifying Fraudelent Activities
+# Identifying Fraudulent Activities
 
 This project aims to perform exploratory data analysis based on the given dataset, visually and statistically summarizing, inspecting, and understanding the main characteristics of the data.
 
