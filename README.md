@@ -28,4 +28,4 @@ Finally, it involves creating a model to predict whether is a transaction should
 2. Clear all the outputs
 3. Run all
 
-Take note that I am random forest classifier from scikit learn for the modeling.
+Take note that I am using random forest classifier from scikit learn for the modeling.
